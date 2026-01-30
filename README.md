@@ -9,17 +9,32 @@ File Name: Spotify_Dashboard_Aman
 
 ## 📷 Dashboard Preview
 
+### 🔹 Home Page
+
+![Home Dashboard](https://github.com/Amang125/Spotify_Dashboard_Aman/blob/main/1.Home.png)
+
 ### 🔹 Overview Page
 
-![Overview Dashboard](./assets/overview.png)
-
-### 🔹 Songs Analysis Page
-
-![Songs Dashboard](./assets/songs.png)
+![Overview Dashboard](https://github.com/Amang125/Spotify_Dashboard_Aman/blob/main/2.Overview.png)
 
 ### 🔹 Artists Analysis Page
 
-![Artists Dashboard](./assets/artists.png)
+![Artists Dashboard](https://github.com/Amang125/Spotify_Dashboard_Aman/blob/main/3.Artists.png)
+
+### 🔹 Songs Analysis Page
+
+![Songs Dashboard](https://github.com/Amang125/Spotify_Dashboard_Aman/blob/main/4.Songs.png)
+
+
+
+
+![Overview Dashboard](https://github.com/Amang125/Spotify_Dashboard_Aman/blob/main/2.Overview%20(2).png)
+
+
+![Artists Dashboard](https://github.com/Amang125/Spotify_Dashboard_Aman/blob/main/3.Artists%20(2).png)
+
+
+![Songs Dashboard](https://github.com/Amang125/Spotify_Dashboard_Aman/blob/main/4.Songs%20(2).png)
 
 ---
 
@@ -85,8 +100,8 @@ If this dashboard helped or inspired you, please give this repo a ⭐ on GitHub.
 
 I’m passionate about **data analytics, Power BI dashboards, and visualization storytelling**. I enjoy building real-world projects that combine creativity with insights.
 
-* GitHub: [https://github.com/your-username](https://github.com/Amang125)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aman-gole-07073036b/)
+* GitHub: [github](https://github.com/Amang125)
+* LinkedIn: [linkedin](https://www.linkedin.com/in/aman-gole-07073036b/)
 
 ---
 
